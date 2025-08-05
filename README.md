@@ -1,9 +1,3 @@
-
-
-```
-# This is formatted as code
-```
-
 # Fraud Detection Model
 
 This repository contains a PyTorch implementation of a neural network for credit card fraud detection.
