@@ -61,6 +61,8 @@ The following libraries are required to run the notebook:
 
 - `creditcard.csv`: The dataset containing the transaction data.
 - This notebook: Contains the Python code for the model implementation, training, and evaluation.
+  
+> 🔗 [Download the dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ## Results
 
