@@ -1,9 +1,13 @@
 # Fraud Detection Model
 
 This repository contains a PyTorch implementation of a neural network for credit card fraud detection.
+
 **Accuracy: 0.9994**
+
 **Precision: 0.8144**
+
 **Recall: 0.8061**
+
 **F1-score: 0.8103**
 
 ## Overview
